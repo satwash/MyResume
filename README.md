@@ -4,4 +4,6 @@
   <a href="https://yourwebsite.com/portfolio">Portfolio</a>
 </div>
 
-# Hello!, I am Shubham...
+![profile](profile.jpg)
+# Hello! I am Shubham...
+
