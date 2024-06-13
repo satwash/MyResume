@@ -4,6 +4,6 @@
   <a href="https://yourwebsite.com/portfolio">Portfolio</a>
 </div>
 
-![profile](profile.jpg)
+![profile](bin/profile.jpg)
 # Hello! I am Shubham...
 
