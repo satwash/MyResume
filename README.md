@@ -1,7 +1,7 @@
 <div align="right">
-  <a href="https://satwash.github.io/MyResume/">Home</a> | 
-  <a href="https://yourwebsite.com/Resume">Download</a> | 
-  <a href="https://yourwebsite.com/portfolio">Portfolio</a>
+  <a href="https://satwash.github.io/MyResume/" target="_blank">Home</a> | 
+  <a href="https://yourwebsite.com/Resume" target="_blank">Download</a> | 
+  <a href="https://yourwebsite.com/portfolio" target="_blank">Portfolio</a>
 </div>
 
 ![profile](bin/profile.jpg)
