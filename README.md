@@ -16,7 +16,7 @@
 ## 🔗 <a href="https://satwash.github.io/MyResume/education.html" target="_blank">Education</a>
 ## 🔗 <a href="https://satwash.github.io/MyResume/projects.html" target="_blank">Work Experience and Projects</a>
 ## 🔗 <a href="https://satwash.github.io/MyResume/certification.html" target="_blank">License & Certification</a>
-## 🔗 <a href="https://satwash.github.io/MyResume/awards" target="_blank">Awards</a>
+## 🔗 <a href="https://satwash.github.io/MyResume/awards.html" target="_blank">Awards</a>
 
   
   
