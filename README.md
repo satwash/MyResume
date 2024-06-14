@@ -2,7 +2,7 @@
   <a href="https://satwash.github.io/MyResume/">Home</a> | 
   <a href="https://yourwebsite.com/Resume">Download</a> | 
   <a href="https://yourwebsite.com/portfolio" target="_blank">Portfolio</a> |
-  <a href="https://github.com/satwash/MyResume/blob/5e239192b28cddc5833482b92b60988981935bd6/contactme.md" target="_blank">Contact me</a>
+  <a href="contactme.md" target="_blank">Contact me</a>
 </div>
 
 ![profile](bin/profile.jpg)
