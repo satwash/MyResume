@@ -11,10 +11,15 @@
   <p>I'm a dedicated Software Engineer with over 5 years of experience in developing scalable web applications and working across the full stack.</p>
   <p>Passionate about solving complex problems and delivering high-quality software solutions.</p>
 </div>
+  
 
+## 🔗 <a href="https://satwash.github.io/MyResume/education.html" target="_blank">Education</a>
+## 🔗 <a href="https://satwash.github.io/MyResume/projects.html" target="_blank">Work Experience and Projects</a>
+## 🔗 <a href="https://satwash.github.io/MyResume/certification.html" target="_blank">License & Certification</a>
+## 🔗 <a href="https://satwash.github.io/MyResume/awards" target="_blank">Awards</a>
 
-
-
+  
+  
 <div align="center">
     <a href="https://www.linkedin.com/in/shubahm07" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
